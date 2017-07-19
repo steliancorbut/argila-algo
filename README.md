@@ -2,7 +2,7 @@
 How to Install
 >npm install
 >npm start
-browser will open http://localhost:3000/
+now the browser will open http://localhost:3000/
 
 Create MyBranch
 # creates the branch
