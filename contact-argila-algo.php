@@ -250,24 +250,24 @@
 					<hr class="hr-xs">
 
 					<div class="blog-thumb-v3">
-						<big><a href="http://wheatgrassandsprouts.com">Comenzi SUA</big></a>
+						<big><a href="http://wheatgrassandsprouts.com" target="_blank">Comenzi SUA</big></a>
 						<h3>Pentru comenzi in SUA
 						    Anca & Gabriel Iordacheanu<br>
 							1925 West Maple Rd.<br>
 							Troy, MI 48084<br>
 							Phone: (248) 822-9999<br>
-							<a href="http://wheatgrassandsprouts.com">wheatgrassandsprouts.com</h3>
+							<a href="http://wheatgrassandsprouts.com" target="_blank">wheatgrassandsprouts.com</h3>
 					</div>
 
 					<hr class="hr-xs">
 
 					<div class="blog-thumb-v3">
-						<big><a href="http://www.clayforlife.com">Comenzi Canada</a></big>
+						<big><a href="http://www.clayforlife.com" target="_blank">Comenzi Canada</a></big>
 						<h3>Pentru comenzi in Canada<br>
 						<p>Ina - JT Impex Canada LTD.<br>
 						Phone: (647) 201-2275<br>
 						E-mail: info@clayforlife.com<br>
-						<a href="http://www.clayforlife.com">www.clayforlife.com</h3>
+						<a href="http://www.clayforlife.com" target="_blank">www.clayforlife.com</h3>
 					</div>
 
 				<!-- End Blog Thumb v3 -->
@@ -310,7 +310,7 @@
 				</div>
 				
 				<!-- Social Shares -->
-				<div class="margin-bottom-10">
+				<!-- <div class="margin-bottom-10">
 					<h2 class="title-v4">Social</h2>
 					<ul class="blog-social-shares">
 						<li>
@@ -329,7 +329,7 @@
 							<span class="counter">1,764</span>
 						</li>
 					</ul>
-				</div>
+				</div> -->
 				<!-- End Social Shares -->
 
 			</div>
